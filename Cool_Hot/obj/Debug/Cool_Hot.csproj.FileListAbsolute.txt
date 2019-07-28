@@ -1,0 +1,7 @@
+C:\C#\Cool_Hot\Cool_Hot\obj\Debug\Cool_Hot.csprojAssemblyReference.cache
+C:\C#\Cool_Hot\Cool_Hot\obj\Debug\Cool_Hot.csproj.CoreCompileInputs.cache
+C:\C#\Cool_Hot\Cool_Hot\bin\Debug\Cool_Hot.exe.config
+C:\C#\Cool_Hot\Cool_Hot\bin\Debug\Cool_Hot.exe
+C:\C#\Cool_Hot\Cool_Hot\bin\Debug\Cool_Hot.pdb
+C:\C#\Cool_Hot\Cool_Hot\obj\Debug\Cool_Hot.exe
+C:\C#\Cool_Hot\Cool_Hot\obj\Debug\Cool_Hot.pdb
